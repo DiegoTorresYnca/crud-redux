@@ -1,0 +1,29 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "React Hooks v52",
+      "precio": "25.6"
+    },
+    {
+      "id": 2,
+      "nombre": "React v75",
+      "precio": "45"
+    },
+    {
+      "id": 3,
+      "nombre": "Hooks 98",
+      "precio": "33"
+    },
+    {
+      "id": 5,
+      "nombre": "React Avanzadox",
+      "precio": "987"
+    },
+    {
+      "id": 9,
+      "nombre": "React Routerx",
+      "precio": "12"
+    }
+  ]
+}
